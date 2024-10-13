@@ -4,6 +4,9 @@ This project demonstrates a simple loading animation using pure HTML and CSS. Th
 
 ## Demo
 
+![17288234918759021430066830761776](https://github.com/user-attachments/assets/20ae8e34-9205-49f2-aa00-4882cbf4db14)
+
+
 The animation consists of five dots that fade and move upwards in a sequence to create a smooth loading effect.
 
 ## Files
