@@ -19,7 +19,7 @@ The animation consists of five dots that fade and move upwards in a sequence to 
 ## Subscribe
 
 Feel free to subscribe to my YouTube channel for more awesome projects and tutorials:  
-[CodebySkm555](https://youtube.com/@CodebySkm555?si=sTEORxoMsxuisQuS)
+[CodebySkm555](https://youtube.com/@CodebySkmaurya555?si=YlVFUoOkbmSXg8nv)
 
 ## Technologies Used
 
